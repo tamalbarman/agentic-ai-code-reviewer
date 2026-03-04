@@ -15,10 +15,6 @@ H --> I[Generate Review Feedback]
 I --> J[GitHub Comment Bot]
 J --> K[Post Comment on Pull Request]
 K --> L[Developer Receives AI Code Review]
-
-
-This will render directly on GitHub.
-
 ---
 
 # 2. Project Architecture Overview (Add to README)
